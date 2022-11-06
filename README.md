@@ -1,4 +1,4 @@
-<h2>Module 13 Challange -- 
+<h2>Module 13 Challenge -- Using JavaScript to Upload Earthquake Data onto a Map and Creating Filters 
   </h2>
   
 ______________________________________________________________________
@@ -6,9 +6,19 @@ ______________________________________________________________________
 </h4>
 
 ______________________________________________________________________
-This module consisted of 3 main components 
+The Purpose of the challenge was to use JavaScript to upload earthquake data onto a map using a Mapbox API key. we created different filters to make the map more interactive and display various information. The module consists of 3 parts as seen below 
 <br>
-<br>1) we first created a list of random 1000 longitudes and latitudes. we then used an weather API to extract relevant information from a JSON file about these locations 
-<br>2) The second part of the assignment consisting of using a Google Maps API to plot the locations' on a heat-map and figure out the closest hotel for each of the locations 
-<br>3)the thirds part consisted of get user input as to what temperature they'd prefer when going on vacation and then filtering all our indexed locations to find suitable hotels. We then created an itinerary as a map showing how to get form one place to another in case the user wanted to visit multiple locations 
+<br>1) Part 1: As seen in figure 1, we created a filter to show tectonic plates, and earthquakes 
+<br>2) Part 2: As seen in figure 2, we created a filter to show major earthquakes  
+<br>3) Part 3: As seen in figure 3, we created a filter to change the colour of the map to a dark view 
+
+
+Figure 1 -- Map with filters showing tectonic plates, and earthquakes 
+
+
+Figure 2 -- Map with filters showing major 
+
+
+Figure 1 -- Filter to show a dark view of the map 
+
 ______________________________________________________________________
